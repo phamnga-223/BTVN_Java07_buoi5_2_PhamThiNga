@@ -14,7 +14,7 @@ public class Cau3 {
 	}
 	
 	public static void checkNumWhile(int a, int n) {
-		//B1: Kiểm tra số a
+		//B1: Kiểm tra số a có bằng 0 hay ko?
 		if (a == 0) {
 			System.out.println("Không thể đếm có bao nhiêu số chia hết cho 0!");
 			return;
@@ -32,7 +32,7 @@ public class Cau3 {
 	}
 	
 	public static void checkNumFor(int a, int n) {
-		//B1: Kiểm tra số a
+		//B1: Kiểm tra số a có bằng 0 hay ko?
 		if (a == 0) {
 			System.out.println("Không thể đếm có bao nhiêu số chia hết cho 0!");
 			return;
